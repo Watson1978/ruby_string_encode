@@ -1,0 +1,9 @@
+% ruby extconf.rb
+% make
+
+## Test for String#encode
+% ruby string_encode.rb
+
+
+## Test For Iconv.conv
+% ruby iconv.rb
